@@ -1,1 +1,1 @@
-# TubesAlgeoo
+Melakukan kalkulasi matriks(determinan, inverse, mencari solusi sistem persamaan linear, solusi regresi linear) menggunakan metode eliminasi gauss, eliminasi gauss jordan, metode inverse, dan metode cramer
